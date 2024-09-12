@@ -1,0 +1,31 @@
+body {
+    font-size: 35pt;
+    background-image: linear-gradient(lavender, lightpink);
+    font-family: Arial;
+}
+
+h2 {
+  color: rebeccapurple;
+  font-family: Times New Roman;
+}
+
+h1 {
+  color: rebeccapurple;
+  font-family: Times New Roman;
+
+}
+
+summary {
+  color: rebeccapurple;
+  font-family: Times New Roman;
+}
+
+ul.names {
+  font-family: Times New Roman;
+}
+
+a, li {
+  color: black;
+  font-family: Times New Roman;
+}
+
